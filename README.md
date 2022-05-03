@@ -15,7 +15,9 @@
 ### Programming Languagues
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kisejin&layout=compact)](https://github.com/kisejin/github-readme-stats)
 
-<a href="https://app.daily.dev/kisejin"><img src="https://api.daily.dev/devcards/9681fe311d2446d3935083dd4f272317.png?r=vfw" width="400" alt="Kise's Dev Card"/></a>
+### Daily articles
+<p align="rigth"> 
+<a href="https://app.daily.dev/kisejin"><img src="https://api.daily.dev/devcards/9681fe311d2446d3935083dd4f272317.png?r=vfw" width="400" alt="Kise's Dev Card"/></a> </p>
 
 ### GitHub Stats 
 
